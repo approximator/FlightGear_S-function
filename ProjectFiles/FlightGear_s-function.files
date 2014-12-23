@@ -9,3 +9,4 @@
 ../Src/transport/FgsTransport.c
 ../Src/FgsFunction.c
 ../Src/Makefile
+../README.md
