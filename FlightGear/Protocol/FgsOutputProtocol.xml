@@ -36,8 +36,8 @@
       <chunk>
          <name>/position/altitude-ft</name>
          <node>/position/altitude-ft</node>
-         <type>float</type>
-         <format>%f</format>
+         <type>int</type>
+         <format>%d</format>
       </chunk>
        
       <chunk>
